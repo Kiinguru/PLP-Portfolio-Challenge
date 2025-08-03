@@ -1,7 +1,6 @@
 # Portfolio Challenge - PLP Academy Hackathon
 ## 🚀 Project Overview
 A responsive portfolio website built with HTML and CSS featuring:
-- Dark/light mode toggle
 - Glass-morphism design elements
 - Smooth animations and transitions
 - Responsive layout for all devices
